@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="165" src="[https://github-readme-stats.vercel.app/api?username=keremdmrbs&show_icons=true&theme=dark&title_color=D92B4B&icon_color=D92B4B&text_color=c9d1d9&bg_color=0d1117&hide_border=true](https://github-readme-stats-nine-beige-13.vercel.app)" />
