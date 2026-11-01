@@ -21,6 +21,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keremdmrbs&show_icons=true&theme=dark&title_color=D92B4B&icon_color=D92B4B&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=keremdmrbs&show_icons=true&theme=dark&title_color=D92B4B&icon_color=D92B4B&text_color=c9d1d9&bg_color=0d1117&hide_border=true](https://github-readme-stats-nine-beige-13.vercel.app)" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=keremdmrbs&theme=dark&hide_border=true&background=0d1117&stroke=D92B4B&ring=D92B4B&fire=D92B4B&currStreakLabel=D92B4B" />
 </div>
