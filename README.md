@@ -20,7 +20,7 @@
 
 ---
 <div align="center">
-  <p><em>I am currently developing my skills in .NET technologies and relational databases, and I am working toward designing scalable backend systems.</em></p>
+  <p><em>I am currently improving myself in .NET technologies and relational databases, and progressing toward designing scalable backend systems.</em></p>
 </div>
 
 ---
