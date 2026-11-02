@@ -26,6 +26,14 @@
 ---
 
 
+### APPS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pr,ae,ps,figma,blender,notion&perline=11" alt="C#, .NET, Git, GitHub, Visual Studio, VS Code" />
+</p>
+
+---
+
+
 ### Developer Profile
 
 ```csharp
@@ -42,6 +50,10 @@ public class Developer
 ---
 
 ### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,vscode,codepen&perline=11" alt="C#, .NET, Git, GitHub, Visual Studio, VS Code" />
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
